@@ -1,0 +1,22 @@
+{
+  "name": "react-navigation-header",
+  "version": "1.0.0",
+  "description": "react navigation animated header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malacca/react-navigation-header.git"
+  },
+  "keywords": [
+    "react-navigation-header"
+  ],
+  "author": "malacca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malacca/react-navigation-header/issues"
+  },
+  "homepage": "https://github.com/malacca/react-navigation-header#readme"
+}
