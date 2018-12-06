@@ -1,22 +1,50 @@
 {
-  "name": "react-navigation-header",
-  "version": "1.0.0",
-  "description": "react navigation animated header",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "react-navigation-header",
+  "_id": "react-navigation-header@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-tLjD8iSATe3dPgMzU2ail5iVm+P+r/pNKR0StDF4cTxpVVnfXrCjHu2ufBNRxZHwDXh9/51ZotHgp8sz1zLv0Q==",
+  "_location": "/react-navigation-header",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-navigation-header",
+    "name": "react-navigation-header",
+    "escapedName": "react-navigation-header",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-navigation-header/-/react-navigation-header-1.0.0.tgz",
+  "_shasum": "c2fef72617af59e7fcfbc1d2349e03f09dd4bd7b",
+  "_spec": "react-navigation-header",
+  "_where": "M:\\tu\\tubbm",
+  "author": {
+    "name": "malacca"
+  },
+  "bugs": {
+    "url": "https://github.com/malacca/react-navigation-header/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "react navigation animated header",
+  "homepage": "https://github.com/malacca/react-navigation-header#readme",
+  "keywords": [
+    "react-navigation-header"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-navigation-header",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/malacca/react-navigation-header.git"
   },
-  "keywords": [
-    "react-navigation-header"
-  ],
-  "author": "malacca",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/malacca/react-navigation-header/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/malacca/react-navigation-header#readme"
+  "version": "1.0.0"
 }
